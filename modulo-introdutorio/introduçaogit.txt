@@ -1,0 +1,5 @@
+#Criando repositório de estudos no Github
+
+# clonando repositorio
+
+#atualizando o ReadMe.MD
